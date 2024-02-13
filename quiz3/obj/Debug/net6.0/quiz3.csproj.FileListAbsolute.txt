@@ -1,0 +1,15 @@
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/quiz3.csproj.AssemblyReference.cache
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/quiz3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/quiz3.AssemblyInfoInputs.cache
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/quiz3.AssemblyInfo.cs
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/quiz3.csproj.CoreCompileInputs.cache
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/bin/Debug/net6.0/quiz3
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/bin/Debug/net6.0/quiz3.deps.json
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/bin/Debug/net6.0/quiz3.runtimeconfig.json
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/bin/Debug/net6.0/quiz3.dll
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/bin/Debug/net6.0/quiz3.pdb
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/quiz3.dll
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/refint/quiz3.dll
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/quiz3.pdb
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/quiz3.genruntimeconfig.cache
+/Users/bonvivannavivnob/Desktop/EndOfCorse/quiz3/obj/Debug/net6.0/ref/quiz3.dll
